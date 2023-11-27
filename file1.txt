@@ -1,4 +1,5 @@
 first line in local
 second line added in remote
 third line added in local master
+fifth line added in local b1
 
